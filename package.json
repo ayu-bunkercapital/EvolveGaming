@@ -1,0 +1,23 @@
+{
+  "name": "krypnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayu-bunkercapital/krypnetwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayu-bunkercapital/krypnetwork/issues"
+  },
+  "homepage": "https://github.com/ayu-bunkercapital/krypnetwork#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.11.0",
+    "truffle": "^4.1.13"
+  }
+}
